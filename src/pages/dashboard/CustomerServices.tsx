@@ -1,5 +1,3 @@
 export default function CustomerServices() {
-    return (
-        <>Atendimentos</>
-    );
+  return <>Atendimentos</>;
 }
